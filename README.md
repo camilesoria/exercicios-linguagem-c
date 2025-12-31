@@ -31,14 +31,14 @@ git clone https://github.com/camilesoria/exercicios-linguagem-c.git
 cd exercicios-linguagem-c
 ```
 
-1. Compile e rode um arquivo `.c` (exemplo com `biblioteca.c`):
+2. Compile e rode um arquivo `.c` (exemplo com `biblioteca.c`):
 
 ```bash
 gcc biblioteca.c -o biblioteca
 ./biblioteca
 ```
 
-1. Para qualquer arquivo:
+3. Para qualquer arquivo:
 
 ```bash
 gcc arquivo.c -o programa && ./programa
